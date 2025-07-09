@@ -30,10 +30,9 @@ def app():
     )
 
     st.title("Option Pricing Models 📊")
-    # st.subsubheader("Contact: saeed.bidi@qmul.ac.uk 📧",)
     st.markdown("""
-    **Developed by Saeed Bidi, PhD**""")  
-    st.markdown("<span style='font-size: 0.9em;'>✉️ saeed.bidi@qmul.ac.uk</span>", unsafe_allow_html=True)
+    **Developed by Piyush Kumar**""")  
+    st.markdown("<span style='font-size: 0.9em;'>✉️ piyush2304@gmail.com</span>", unsafe_allow_html=True)
 
     # Description of the app and models
     st.markdown("""
@@ -214,9 +213,8 @@ def app():
     
     st.markdown("---")
     st.markdown("""
-    [My LinkedIn](https://www.linkedin.com/in/saeed-bidi/)
                 
-    [GitHub Repository](https://github.com/saeedbidi/option_pricing)
+    [GitHub Repository](https://github.com/Piyush-Spectro/Quant-Option)
     
     I designed this app to model the pricing of options using various financial models.
                 

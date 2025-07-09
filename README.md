@@ -3,7 +3,6 @@
 
 ## Quick Note:
 
-📢 This app is now released and deployed at: https://saeed-option-pricing.streamlit.app/
 
 
 🚀 I am excited to share my project focusing on pricing options. I implemented the following models:
@@ -13,10 +12,6 @@
 4. **Binomial Tree method**
 
 and performed backtesting. I am developing the project further.
-
-👨🏻‍💻 **About me**: I believe in hands-on learning. As a Senior Data Scientist with a PhD in Computational Physics, I have a strong foundation in analytical thinking and complex problem-solving. Through hands-on work in finance, I am leveraging my data science skills to gain practical experience and build a robust understanding of financial systems.
-###### **Contact [my LinkedIn](https://www.linkedin.com/in/saeed-bidi/) 👨🏻‍💻**
-
 
 
 ##  💰 **Option Pricing Model with Machine Learning, Monte Carlo , Black-Scholes and Binomial Tree Methods**
@@ -239,6 +234,3 @@ All methods provide alternative means to calculate option prices, especially for
 - [Binomial Tree Model - Investopedia](https://www.investopedia.com/terms/b/binomialoptionpricing.asp)
 - [Yahoo Finance API](https://pypi.org/project/yfinance/)
 - [Backtesting data source](https://optiondata.org/)
-
-## 📜 **License**
-This project is open-source and available under the [MIT License](LICENSE).
